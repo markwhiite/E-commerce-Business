@@ -37,8 +37,7 @@ Within the first few months, sales began to grow, and I scaled operations while 
 - Highest earning monthL **12k**
 - Customers across multiple states  
 
-![Analytics Dashboard](./images/shopify-analytics.png)  
-*(Shopify Analytics showing performance from 2020–2023)*  
+*(Shopify Analytics above show performance from 2020–2023)*  
 
 ---
 
