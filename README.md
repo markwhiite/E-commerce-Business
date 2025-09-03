@@ -57,8 +57,9 @@ Although I decided to wind down the business in 2023 to focus on my IT and cyber
 ---
  
 
-<h3 align="center"><em>Business Website</em></h3>
 
-- https://lightworkin.com/
+<h3 align="center"><em>[Business Website</em>](https://lightworkin.com/)</h3>
+
+
 
 https://github.com/user-attachments/assets/d6e909d2-6fef-4f21-ac40-bfe2dde66f82
