@@ -19,7 +19,8 @@
 - Combined and edited images to create cohesive poster artwork.  
 - Used Photoshop and Illustrator features such as blending, color correction, pen tools, and collage techniques.  
 - Created **video content** (CapCut, After Effects) to support product marketing.  
-- Focused on branding consistency across designs and promotions.  
+- Focused on branding consistency across designs and promotions.
+- Also worked on many custom & commission design artwork. 
 
 ---
 
