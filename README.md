@@ -48,7 +48,9 @@ Running Lightworkin gave me **real-world experience** in entrepreneurship, techn
 - Fail fast, adapt, and improve  
 
 Although I decided to wind down the business in 2023 to focus on my IT and cybersecurity career, this project remains one of my proudest achievements and a cornerstone of how I approach problem-solving and growth.  
-<h3 align="center"><em>👉 **[Visit my portfolio here](https://markwhiite.github.io)** to see more of my projects. </em></h3>
+<h3 align="center">
+  <em>👉 <a href="https://markwhiite.github.io">Visit my portfolio here</a> to see more of my projects.</em>
+</h3>
 ---
 
  
