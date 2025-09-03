@@ -13,7 +13,7 @@ In May 2020, during the height of the pandemic, I decided to start my own e-comm
 
 I started from scratch: no investors, no business background, just an interest in design and a willingness to learn. I built the store on **Shopify**, sourced my own artwork, and marketed primarily through **social media and word of mouth**. My goal was to create affordable, high-quality poster designs that connected with fans of music, art, and culture.  
 
-Within the first few months, sales began to grow, and I scaled operations while balancing school, jobs other commitments. **Within 6 months, I generated over $25k in revenue. My highest earning month is October 2020, with 12k+ in monthly revenue**. By the end of three years, I had fulfilled **800+ orders** and generated **$40K+ in revenue**, all while managing every aspect of the business myself.  
+Within the first few months, sales began to grow, and I scaled operations while balancing school, jobs, and other commitments. **Within 6 months, I generated over $25k in revenue. My highest earning month is October 2020, with 12k+ in monthly revenue**. By the end of three years, I had fulfilled **800+ orders** and generated **$40K+ in revenue**, all while managing every aspect of the business myself.  
 
 ---
 
