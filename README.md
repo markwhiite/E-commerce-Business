@@ -34,7 +34,7 @@ Within the first few months, sales began to grow, and I scaled operations while 
 - **$25k within 6 months**
 - **860+ orders fulfilled**  
 - Average order value: **$45.90**
-- Highest earning monthL **12k**
+- Highest earning month: **12k**
 - Customers across multiple states  
 
 *(Shopify Analytics above show performance from 2020–2023)*  
