@@ -17,18 +17,24 @@ Within the first few months, sales began to grow, and I scaled operations while 
 ---
 
 ## 🚀 Skills & Tools Learned
-- **Digital Marketing** – Promoted products through Instagram ads, social media campaigns, and word of mouth  
-- **E-commerce Operations** – Managed Shopify storefront, order fulfillment, and customer service  
-- **Data Analytics** – Used Shopify Analytics & Excel to track sales, customer trends, and best-selling products  
-- **Design & Branding** – Created original poster artwork and built the Lightworkin brand identity  
-- **Business Management** – Managed finances, handled refunds/returns, and kept operations lean  
+- **Digital Marketing & Growth** – Promoted products through tiktok, Instagram, social media campaigns, tiktok, influencer outreach, word-of-mouth marketing, brand positioning
+- **E-commerce Operations** – Managed Shopify storefront, order fulfillment, shipping logistics, packaging optimization for cost efficiency and customer experience 
+- **Data Analytics** – Used Shopify Analytics & Excel to track sales, customer trends, and best-selling products (sales, AOV, customer demographics, traffic sources)
+- **Market Research** – Identified best-selling product trends, optimized pricing strategies, analyzed customer feedback to refine offerings
+- **Design & Branding** – Created original poster artwork and promotional materials using Adobe Photoshop & Illustrator, building the Lightworkin brand identity  
+- **Business Management** – Managed finances, Budgeting, profit margin analysis, reinvestment planning, handling refunds/returns, and kept operations lean
+- **Planning & Project Management** – Managed timelines, balanced business operations alongside college coursework, adapted strategies during challenges
+- **Customer Experience** – Handled customer service inquiries, maintained positive reviews, built repeat customer relationships
+
 
 ---
 
 ## 📊 Results
-- **$40K+ total revenue** over 3 years  
+- **$40K+ total revenue** 
+- **$25k within 6 months**
 - **860+ orders fulfilled**  
-- Average order value: **$45.90**  
+- Average order value: **$45.90**
+- Highest earning monthL **12k**
 - Customers across multiple states  
 
 ![Analytics Dashboard](./images/shopify-analytics.png)  
