@@ -4,7 +4,8 @@
 
 <img width="1919" height="1079" alt="analytics-dashboard" src="https://github.com/user-attachments/assets/ed1990b5-731f-4621-bec7-25c3ad419d9d" />
 
-<h1 align="center"><em>Lightworkin – E-commerce Business (2020–2023)</em></h1>
+<h2 align="center"><em>Lightworkin – E-commerce Business (2020–2023)</em></h2>
+
 
 
 ## 📖 Backstory
@@ -52,9 +53,8 @@ Although I decided to wind down the business in 2023 to focus on my IT and cyber
   <em>👉 <a href="https://markwhiite.github.io">Visit my portfolio here</a> to see more of my projects.</em>
 </h3>
 
-<div>
-  
-</div>
+
+---
  
 
 <h3 align="center"><em>Business Website</em></h3>
