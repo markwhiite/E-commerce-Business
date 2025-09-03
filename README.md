@@ -4,7 +4,8 @@
 
 <img width="1919" height="1079" alt="analytics-dashboard" src="https://github.com/user-attachments/assets/ed1990b5-731f-4621-bec7-25c3ad419d9d" />
 
-# Lightworkin – E-commerce Business (2020–2023)
+<h1 align="center"><em>Lightworkin – E-commerce Business (2020–2023)</em></h1>
+
 
 ## 📖 Backstory
 In May 2020, during the height of the pandemic, I decided to start my own e-commerce business called **Lightworkin**. What began as a small idea — designing and selling poster art inspired by music and culture — quickly grew into a project that taught me much more than just selling online.  
