@@ -12,7 +12,7 @@ In May 2020, during the height of the pandemic, I decided to start my own e-comm
 
 I started from scratch: no investors, no business background, just an interest in design and a willingness to learn. I built the store on **Shopify**, sourced my own artwork, and marketed primarily through **social media and word of mouth**. My goal was to create affordable, high-quality poster designs that connected with fans of music, art, and culture.  
 
-Within the first few months, sales began to grow, and I scaled operations while balancing school, jobs other commitments. Within 6 months, I generated over *$25k* in revenue. My highest earning month is in** October 2020, with 12k+ in monthly revenue**.By the end of three years, I had fulfilled **800+ orders** and generated **$40K+ in revenue**, all while managing every aspect of the business myself.  
+Within the first few months, sales began to grow, and I scaled operations while balancing school, jobs other commitments. **Within 6 months, I generated over $25k in revenue. My highest earning month is October 2020, with 12k+ in monthly revenue**. By the end of three years, I had fulfilled **800+ orders** and generated **$40K+ in revenue**, all while managing every aspect of the business myself.  
 
 ---
 
@@ -48,12 +48,13 @@ Running Lightworkin gave me **real-world experience** in entrepreneurship, techn
 - Fail fast, adapt, and improve  
 
 Although I decided to wind down the business in 2023 to focus on my IT and cybersecurity career, this project remains one of my proudest achievements and a cornerstone of how I approach problem-solving and growth.  
-
+<h3 align="center"><em>👉 **[Visit my portfolio here](https://markwhiite.github.io)** to see more of my projects. </em></h3>
 ---
 
-👉 **[Visit my portfolio here](https://markwhiite.github.io)** to see more of my projects.  
+ 
 
-**Business Website**
+<h3 align="center"><em>Business Website</em></h3>
+
 - https://lightworkin.com/
 
 https://github.com/user-attachments/assets/d6e909d2-6fef-4f21-ac40-bfe2dde66f82
